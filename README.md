@@ -13,8 +13,8 @@ The QA roadmap includes the following key areas:
 
 ## Learning Progress
 ### Learn the Fundamentals
-- ✅  what is QA?
-- [ ] QA mindset
+- [x]  what is QA?
+- [x] QA mindset
 - [ ] Testing Approaches
   - [ ] White Box testing
   - [ ] Gray Box Testing
