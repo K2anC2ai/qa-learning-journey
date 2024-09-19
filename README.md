@@ -13,7 +13,7 @@ The QA roadmap includes the following key areas:
 
 ## Learning Progress
 ### Basics of QA
-- [ ] Completed introduction to QA principles
+- [x] Completed introduction to QA principles
 - [ ] Studied different types of testing
 
 ### Test Planning
