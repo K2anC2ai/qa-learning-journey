@@ -12,23 +12,46 @@ The QA roadmap includes the following key areas:
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Integrating testing into CI/CD pipelines.
 
 ## Learning Progress
-### Basics of QA
-- [x] Completed introduction to QA principles
-- [ ] Studied different types of testing
+### Learn the Fundamentals
+- ✅  what is QA?
+- [ ] QA mindset
+- [ ] Testing Approaches
+  - [ ] White Box testing
+  - [ ] Gray Box Testing
+  - [ ] Black box Testing
+- [ ] Test Oracles
+- [ ] Test Prioritization
+- [ ] Project Management
+  - [ ] Atlassion
+  - [ ] Assembla
+  - [ ] Youtrack
+  - [ ] Trello
+- [ ] Manage your Testing
+  - [ ] qTest
+  - [ ] TestRail
+  - [ ] TestLink
+  - [ ] Zephyr  
 
-### Test Planning
-- [ ] Created sample test plans
-- [ ] Developed test cases
+### SDLC Delivery Model
+- [ ] Agile model
+  - [ ] Kanban
+  - [ ] Scrum
+  - [ ] XP
+  - [ ] SAFe
+- [ ] V Model
+- [ ] Waterfall
+
+### Testing Techniques
+- [ ] Functional
+- [ ] Non-Functional
 
 ### Manual Testing
-- [ ] Performed manual testing exercises
-- [ ] Documented bugs and issues
+- [ ] TTD
+- [ ] Test Cases and Scenarios
+- [ ] Compatibility
+- [ ] Verification and Validation
 
-### Automation Testing
-- [ ] Explored automation tools (e.g., Selenium, Cypress)
-- [ ] Built automated test scripts
-
-### CI/CD
+### Automate
 - [ ] Learned about CI/CD concepts
 - [ ] Integrated testing into CI/CD pipelines
 
