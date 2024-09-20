@@ -141,9 +141,12 @@ The QA roadmap includes the following key areas:
 - [ ] HTML Unit
 
 ## Projects
-### Project 1: [Sample Project Title]
-- Description of what was learned and achieved in this project.
-- Link to project files or code.
+### Project 1: To-Do List Website Testing with Cypress
+- **Description**: This project involved testing a self-made to-do list website using Cypress. I created automated test cases to verify that all core functionalities such as adding, editing, deleting, and completing tasks worked as expected.
+    - Tested user interactions including task creation, task status updates (complete/incomplete), and deletion.
+    - Implemented both functional and end-to-end tests using Cypress to ensure all features performed correctly across different browsers.
+    - Used Cypress Dashboard for test runs and detailed reporting of test results.
+- [Cypress_Testing_withMyOwn_TodoList]([https://roadmap.sh/qa](https://github.com/K2anC2ai/Cypress_Testing_withMyOwn_TodoList))
 
 ### Project 2: [Sample Project Title]
 - Description of what was learned and achieved in this project.
