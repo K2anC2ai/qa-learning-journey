@@ -50,10 +50,95 @@ The QA roadmap includes the following key areas:
 - [ ] Test Cases and Scenarios
 - [ ] Compatibility
 - [ ] Verification and Validation
+- [ ] Test Planning
 
 ### Automate
-- [ ] Learned about CI/CD concepts
-- [ ] Integrated testing into CI/CD pipelines
+
+#### Backend Automation
+- [ ] karateframework
+- [ ] Cypress
+- [ ] Playwright
+- [ ] Soap ui
+- [ ] Postman / Newman
+- [ ] Rest Assured
+
+#### Frontend Automation
+- [ ] Automation Frameworks
+  - [ ] Webdriver.io
+  - [ ] Playwright
+  - [ ] Jasmine
+  - [ ] QA Wolf
+  - [ ] Robot
+  - [ ] Selenium
+  - [ ] Cypress
+  - [ ] Jest
+  - [ ] Nightwatch
+  - [ ] Puppeteer
+- [ ] Browser Addons
+  - [ ] Selenium IDE
+  - [ ] Ghost Inspector
+  - [ ] Bus Magnet
+#### non-funtional testing
+##### Accessibility Tests
+- [ ] Wave
+- [ ] Axe
+- [ ] Chorme DevTools
+
+##### Load & Performance Testing
+- [ ] Lighthouse
+- [ ] Locust
+- [ ] Webpage Test
+- [ ] Gatling
+- [ ] K6
+- [ ] Artillery
+- [ ] Vegeta
+- [ ] JMeter
+      
+### Security Testing
+- [ ] Authentication / Authorization
+- [ ] Secrets Management
+- [ ] Vuluerability Scanning
+- [ ] OWASP10
+- [ ] Attack Vectors
+      
+### Email Testing
+- [ ] Mailinator
+- [ ] Gmail Tester
+
+### Reporting
+- [ ] TestRail
+- [ ] Allure
+- [ ] jUnit
+
+### Monitoring & Logs
+- [ ] New Relic
+- [ ] RunScope
+- [ ] Kibana
+- [ ] Datadog
+- [ ] Pager Duty
+- [ ] Grafana
+- [ ] Sentry
+
+### Version Control System
+- [x] Git
+      
+### Repo
+- [x] GitHub
+- [ ] Bitbucket
+- [ ] Gitlab
+
+### CI/CD
+- [ ] Teamcity
+- [ ] Azure DevOps Services
+
+### Headless Testing
+- [ ] Puppeteer
+- [ ] Zombie.js
+- [ ] Playwright
+- [ ] Cypress
+- [ ] Headless Chrome
+- [ ] Headless Fox
+- [ ] HTML Unit
 
 ## Projects
 ### Project 1: [Sample Project Title]
