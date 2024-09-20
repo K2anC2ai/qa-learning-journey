@@ -146,7 +146,7 @@ The QA roadmap includes the following key areas:
     - Tested user interactions including task creation, task status updates (complete/incomplete), and deletion.
     - Implemented both functional and end-to-end tests using Cypress to ensure all features performed correctly across different browsers.
     - Used Cypress Dashboard for test runs and detailed reporting of test results.
-[Cypress_Testing_withMyOwn_TodoList]([https://roadmap.sh/qa](https://github.com/K2anC2ai/Cypress_Testing_withMyOwn_TodoList))
+[Cypress_Testing_withMyOwn_TodoList](https://github.com/K2anC2ai/Cypress_Testing_withMyOwn_TodoList)
 
 ### Project 2: [Sample Project Title]
 - Description of what was learned and achieved in this project.
