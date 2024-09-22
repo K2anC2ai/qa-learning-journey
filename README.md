@@ -15,12 +15,12 @@ The QA roadmap includes the following key areas:
 ### Learn the Fundamentals
 - [x]  what is QA?
 - [x] QA mindset
-- [ ] Testing Approaches
+- [⌛] Testing Approaches
   - [ ] White Box testing
   - [ ] Gray Box Testing
-  - [ ] Black box Testing
-- [ ] Test Oracles
-- [ ] Test Prioritization
+  - [x] Black box Testing
+- [x] Test Oracles
+- [x] Test Prioritization
 - [ ] Project Management
   - [ ] Atlassion
   - [ ] Assembla
@@ -33,45 +33,45 @@ The QA roadmap includes the following key areas:
   - [ ] Zephyr  
 
 ### SDLC Delivery Model
-- [ ] Agile model
-  - [ ] Kanban
-  - [ ] Scrum
-  - [ ] XP
-  - [ ] SAFe
-- [ ] V Model
-- [ ] Waterfall
+- [x] Agile model
+  - [x] Kanban
+  - [x] Scrum
+  - [x] XP
+  - [x] SAFe
+- [x] V Model
+- [x] Waterfall
 
 ### Testing Techniques
-- [ ] Functional
-- [ ] Non-Functional
+- [x] Functional
+- [x] Non-Functional
 
 ### Manual Testing
-- [ ] TTD
-- [ ] Test Cases and Scenarios
-- [ ] Compatibility
-- [ ] Verification and Validation
-- [ ] Test Planning
+- [x] TTD
+- [x] Test Cases and Scenarios
+- [x] Compatibility
+- [x] Verification and Validation
+- [x] Test Planning
 
 ### Automate
 
 #### Backend Automation
 - [ ] karateframework
-- [ ] Cypress
-- [ ] Playwright
-- [ ] Soap ui
-- [ ] Postman / Newman
+- [x] Cypress
+- [x] Playwright
+- [x] Soap ui
+- [x] Postman / Newman
 - [ ] Rest Assured
 
 #### Frontend Automation
 - [ ] Automation Frameworks
   - [ ] Webdriver.io
-  - [ ] Playwright
+  - [x] Playwright
   - [ ] Jasmine
   - [ ] QA Wolf
-  - [ ] Robot
-  - [ ] Selenium
-  - [ ] Cypress
-  - [ ] Jest
+  - [x] Robot
+  - [x] Selenium
+  - [x] Cypress
+  - [x] Jest
   - [ ] Nightwatch
   - [ ] Puppeteer
 - [ ] Browser Addons
@@ -140,12 +140,12 @@ The QA roadmap includes the following key areas:
 - [ ] Headless Fox
 - [ ] HTML Unit
 
-## Projects
+## Projects that about testing
 ### Project 1: To-Do List Website Testing with Cypress
 - **Description**: This project involved testing a self-made to-do list website using Cypress. I created automated test cases to verify that all core functionalities such as adding, editing, deleting, and completing tasks worked as expected.
     - Tested user interactions including task creation, task status updates (complete/incomplete), and deletion.
     - Implemented both functional and end-to-end tests using Cypress to ensure all features performed correctly across different browsers.
-    - Used Cypress Dashboard for test runs and detailed reporting of test results.
+    - Used Cypress Dashboard for test runs and detailed reporting of test results.(i use mochawesome and cypress-mochawesome-reporter to report result)
 - [Cypress_Testing_withMyOwn_TodoList](https://github.com/K2anC2ai/Cypress_Testing_withMyOwn_TodoList)
 
 ### Project 2: [Sample Project Title]
