@@ -15,7 +15,7 @@ The QA roadmap includes the following key areas:
 ### Learn the Fundamentals
 - [x]  what is QA?
 - [x] QA mindset
-- [⌛] Testing Approaches
+- [⌛] Testing Approaches (thank to [Manual QA: Testing for Beginners - Types of QA Testing - Part 9](https://www.youtube.com/watch?v=yR-_r4gA_BA&t=1s)
   - [ ] White Box testing
   - [ ] Gray Box Testing
   - [x] Black box Testing
