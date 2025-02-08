@@ -15,24 +15,24 @@ The QA roadmap includes the following key areas:
 ### Learn the Fundamentals
 - [x]  what is QA?
 - [x] QA mindset
-- [⌛] Testing Approaches (thank to [Manual QA: Testing for Beginners - Types of QA Testing - Part 9](https://www.youtube.com/watch?v=yR-_r4gA_BA&t=1s)
-  - [ ] White Box testing
-  - [ ] Gray Box Testing
+- [x] Testing Approaches (thank to [Manual QA: Testing for Beginners - Types of QA Testing - Part 9](https://www.youtube.com/watch?v=yR-_r4gA_BA&t=1s))
+  - [x] White Box testing
+  - [x] Gray Box Testing
   - [x] Black box Testing
 - [x] Test Oracles
 - [x] Test Prioritization
-- [ ] Project Management
-  - [ ] Atlassion
+- [x] Project Management (thank to [The Complete 2025 Software Testing Bootcamp - udemy])
+  - [x] Atlassion
   - [ ] Assembla
   - [ ] Youtrack
-  - [ ] Trello
-- [ ] Manage your Testing
-  - [ ] qTest
-  - [ ] TestRail
+  - [x] Trello
+- [x] Manage your Testing (thank to [The Complete 2025 Software Testing Bootcamp - udemy])
+  - [x] qTest
+  - [x] TestRail
   - [ ] TestLink
   - [ ] Zephyr  
-
-### SDLC Delivery Model
+ 
+### SDLC Delivery Model (thank to [The Complete 2025 Software Testing Bootcamp - udemy])
 - [x] Agile model
   - [x] Kanban
   - [x] Scrum
@@ -41,11 +41,11 @@ The QA roadmap includes the following key areas:
 - [x] V Model
 - [x] Waterfall
 
-### Testing Techniques
+### Testing Techniques (thank to [The Complete 2025 Software Testing Bootcamp - udemy])
 - [x] Functional
 - [x] Non-Functional
 
-### Manual Testing
+### Manual Testing (thank to [The Complete 2025 Software Testing Bootcamp - udemy])
 - [x] TTD
 - [x] Test Cases and Scenarios
 - [x] Compatibility
@@ -54,15 +54,15 @@ The QA roadmap includes the following key areas:
 
 ### Automate
 
-#### Backend Automation
+#### Backend Automation (thank to [The Complete 2025 Software Testing Bootcamp - udemy])
 - [ ] karateframework
 - [x] Cypress
 - [x] Playwright
-- [x] Soap ui
+- [ ] Soap ui
 - [x] Postman / Newman
 - [ ] Rest Assured
 
-#### Frontend Automation
+#### Frontend Automation (thank to [The Complete 2025 Software Testing Bootcamp - udemy])
 - [ ] Automation Frameworks
   - [ ] Webdriver.io
   - [x] Playwright
@@ -75,7 +75,7 @@ The QA roadmap includes the following key areas:
   - [ ] Nightwatch
   - [ ] Puppeteer
 - [ ] Browser Addons
-  - [ ] Selenium IDE
+  - [x] Selenium IDE
   - [ ] Ghost Inspector
   - [ ] Bus Magnet
 #### non-funtional testing
@@ -84,15 +84,15 @@ The QA roadmap includes the following key areas:
 - [ ] Axe
 - [ ] Chorme DevTools
 
-##### Load & Performance Testing
+##### Load & Performance Testing 
 - [ ] Lighthouse
 - [ ] Locust
 - [ ] Webpage Test
 - [ ] Gatling
-- [ ] K6
+- [x] K6
 - [ ] Artillery
 - [ ] Vegeta
-- [ ] JMeter
+- [x] JMeter
       
 ### Security Testing
 - [ ] Authentication / Authorization
@@ -105,7 +105,7 @@ The QA roadmap includes the following key areas:
 - [ ] Mailinator
 - [ ] Gmail Tester
 
-### Reporting
+### Reporting (thank to [The Complete 2025 Software Testing Bootcamp - udemy])
 - [ ] TestRail
 - [ ] Allure
 - [ ] jUnit
@@ -119,15 +119,15 @@ The QA roadmap includes the following key areas:
 - [ ] Grafana
 - [ ] Sentry
 
-### Version Control System
+### Version Control System (thank to [เรียนรู้การใช้งาน Git & GitHub | สำหรับผู้เริ่มต้น [FULL COURSE]](https://www.youtube.com/watch?v=X3bQzBhRMKQ))
 - [x] Git
       
-### Repo
+### Repo (thank to [เรียนรู้การใช้งาน Git & GitHub | สำหรับผู้เริ่มต้น [FULL COURSE]](https://www.youtube.com/watch?v=X3bQzBhRMKQ))
 - [x] GitHub
 - [ ] Bitbucket
 - [ ] Gitlab
 
-### CI/CD
+### CI/CD 
 - [ ] Teamcity
 - [ ] Azure DevOps Services
 
