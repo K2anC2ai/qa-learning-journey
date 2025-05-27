@@ -125,7 +125,7 @@ The QA roadmap includes the following key areas:
 ### Repo (thank to [เรียนรู้การใช้งาน Git & GitHub | สำหรับผู้เริ่มต้น [FULL COURSE]](https://www.youtube.com/watch?v=X3bQzBhRMKQ))
 - [x] GitHub
 - [ ] Bitbucket
-- [ ] Gitlab
+- [x] Gitlab
 
 ### CI/CD 
 - [ ] Teamcity
